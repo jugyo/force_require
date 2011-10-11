@@ -3,8 +3,8 @@
 Gem::Specification.new do |gem|
   gem.authors       = ["jugyo"]
   gem.email         = ["jugyo.org@gmail.com"]
-  gem.description   = %q{force require}
-  gem.summary       = %q{force require any gems}
+  gem.description   = %q{Force require for Bundler environment! Yeaaaaaaaaaaah!}
+  gem.summary       = %q{You can require any gems on Bundler!}
   gem.homepage      = "https://github.com/jugyo/force_require"
 
   gem.executables   = `git ls-files -- bin/*`.split("\n").map{ |f| File.basename(f) }
