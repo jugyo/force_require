@@ -12,7 +12,7 @@ Install
 
 ### To local
 
-    curl https://github.com/jugyo/force_require/raw/master/lib/force_require.rb > ~/force_require.rb
+    wget https://github.com/jugyo/force_require/raw/master/lib/force_require.rb
 
 Usage
 ----
